@@ -66,4 +66,7 @@ public class Restaurant {
         return name;
     }
 
+    public double getTotalCostOfSelectedItems(List<String> restItems) {
+        return 0.0;
+    }
 }
